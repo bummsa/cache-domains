@@ -93,11 +93,6 @@
 			"domain_files": ["steam.txt"]
 		},
 		{
-			"name": "uplay",
-			"description": "CDN for uplay downloader",
-			"domain_files": ["uplay.txt"]
-		},
-		{
 			"name": "teso",
 			"description": "CDN for The Elder Scrolls Online",
 			"domain_files": ["teso.txt"]
